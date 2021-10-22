@@ -16,7 +16,7 @@ import urllib.request
 import zipfile
 import wx
 
-INSTALLER_VERSION = '1.0.3'
+INSTALLER_VERSION = '1.0.4'
 RELEASE_URL = 'https://api.github.com/repos/TheWRDNoob/Sandbox-Mod-Files/releases/latest'
 MOD_FOLDER = 'SandboxMod'
 PATCHES_LOG = 'patch_list.txt'
@@ -156,7 +156,7 @@ def show_interface():
 # === MAIN ===
 if __name__ == '__main__':
     try:
-        log_output('Welcome to the Sandbox Mod Installer')
+        log_output('Welcome to the W:RD Sandbox Mod Installer')
         log_output('Please wait until this console says "Finished!"')
         log_output('======================================================\n\n\n')
 
