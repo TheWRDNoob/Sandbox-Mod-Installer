@@ -1,3 +1,8 @@
+# THIS IS AN OLD VERSION OF THE MOD, IF YOU WANT TO PLAY THE MOD USE THE NEW VERSION HERE
+https://github.com/Noob-Development/Sandbox-Mod-Installer
+
+
+
 # Sandbox Mod Installer
 
 A Python 3 program to automatically update, configure, patch, and install the Sandbox Mod for the game Wargame: Red Dragon. It uses WxPython for the interface.
